@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/bbaf7ebf28bd81daeffa079c2e5bb346aa6828ac5ee6b04a5ca745082187521d/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3732302f302a78347251466a666930694b33675331542e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamed Bouzidi</h1>
 <h3 align="center">I am currently studying my 4th year of Computer Science at Moroccan School of Engineering Sciences</h3>
-<img align="right" alt="Coding" width="400" src=["https://ci6.googleusercontent.com/proxy/6yONIoTPFRxmcUzOEqGb9rYBV6ot9p2T-PEXVCf8vS8efQLz1Q0yo4Sa6U0lrDqnZIcEDq445nqEDoRcH9cyZobRVuLb3o8oyyjpFXZX1jC-Y1aa-YGJ3kxAAgGaX-S0gw4Tt_8xte_q=s0-d-e1-ft#https://www.lambdatest.com/blog/wp-content/uploads/2021/02/ezgif.com-gif-maker-1-1.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTMydjc4c3BjMzg4NzhkOG1uMGtrZDkwemJmZ3c2cHZmajJvaDZkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif)">
+<img align="right" alt="Coding" width="400" src=["https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTMydjc4c3BjMzg4NzhkOG1uMGtrZDkwemJmZ3c2cHZmajJvaDZkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif">
 
 - 🔭 I’m currently working on **a medical management application using Spring Boot for the backend and React.js for the frontend.**
 
