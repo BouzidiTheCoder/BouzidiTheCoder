@@ -1,7 +1,8 @@
 [![MasterHead](https://camo.githubusercontent.com/bbaf7ebf28bd81daeffa079c2e5bb346aa6828ac5ee6b04a5ca745082187521d/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3732302f302a78347251466a666930694b33675331542e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamed Bouzidi</h1>
 <h3 align="center">I am currently studying my 4th year of Computer Science at Moroccan School of Engineering Sciences</h3>
-<img align="right" alt="Coding" width="400" src=["https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTMydjc4c3BjMzg4NzhkOG1uMGtrZDkwemJmZ3c2cHZmajJvaDZkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif">
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTMydjc4c3BjMzg4NzhkOG1uMGtrZDkwemJmZ3c2cHZmajJvaDZkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif">
 
 - 🔭 I’m currently working on **a medical management application using Spring Boot for the backend and React.js for the frontend.**
 
