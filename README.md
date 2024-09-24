@@ -1,4 +1,5 @@
-[![MasterHead](https://camo.githubusercontent.com/bbaf7ebf28bd81daeffa079c2e5bb346aa6828ac5ee6b04a5ca745082187521d/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3732302f302a78347251466a666930694b33675331542e676966)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/0b80e60fb7e1156b2aab589f751461f05de6619b15f10544a1da0db314c82fa9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3732302f302a78347251466a666930694b33675331542e676966)](https://rishavchanda.io)
+
 
 
 <h1 align="center">Hi 👋, I'm Mohamed Bouzidi</h1>
